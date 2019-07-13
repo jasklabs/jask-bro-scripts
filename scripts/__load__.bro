@@ -1,0 +1,1 @@
+@load ./trident-sensor.bro

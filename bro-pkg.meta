@@ -1,0 +1,4 @@
+[package]
+description = Jask Bro Extensions
+tags = logs 
+script_dir = scripts
